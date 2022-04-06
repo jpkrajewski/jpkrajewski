@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpkrajewski
-- 👀 I’m interested in MQTT, Laravel, Python Kivy
-- 🌱 I’m currently learning PHP Laravel and Python
+- 👀 I love Python
+- 🌱 I’m currently learning webscraping, kivy, mqtt usage, automation using Py.   
 - 📫 How to reach me jakubpkrajewski@gmail.com
 
 <!---
