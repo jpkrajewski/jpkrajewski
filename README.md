@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpkrajewski
-- 👀 I love Python
-- 🌱 I’m currently learning webscraping, kivy, mqtt usage, automation using Py.   
+- ❤️ I in love with Python
+- 🌱 Finished 100 days of code with Python.
 - 📫 How to reach me jakubpkrajewski@gmail.com
 
 <!---
