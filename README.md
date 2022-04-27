@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jpkrajewski
 - ❤️ I'm in love with Python
 - 🌱 Finished 100 days of code with Python.
+- I know Flask, Selenium, Pandas.
 - 📫 How to reach me jakubpkrajewski@gmail.com
 
 <!---
