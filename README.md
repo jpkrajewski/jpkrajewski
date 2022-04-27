@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpkrajewski
-- ❤️ I in love with Python
+- ❤️ I'm in love with Python
 - 🌱 Finished 100 days of code with Python.
 - 📫 How to reach me jakubpkrajewski@gmail.com
 
