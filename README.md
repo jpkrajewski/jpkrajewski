@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpkrajewski
 - ❤️ I'm in love with Python
 - I know Flask, Selenium, Pandas, Django, NumPy, Pandas
-- My recent Data Analysis - Space Missions: https://colab.research.google.com/drive/1DGBDcOeurlglDElp0RUsrUzyGozZGlcI?usp=sharing
+- My Space Missions Analysis: https://colab.research.google.com/drive/1DGBDcOeurlglDElp0RUsrUzyGozZGlcI?usp=sharing
 - 📫 How to reach me jakubpkrajewski@gmail.com
 
 <!---
