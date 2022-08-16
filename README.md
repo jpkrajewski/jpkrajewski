@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jpkrajewski
 - ❤️ I'm in love with Python
 - I know Flask, Selenium, Pandas, Django, NumPy, Pandas
-- My Space Missions Analysis: 
-  https://colab.research.google.com/drive/1DGBDcOeurlglDElp0RUsrUzyGozZGlcI?usp=sharing
-  
+
 - My tutoring app (colab whiteboard, chat, voicechat). Open two tabs under that link:
   https://krajewski.herokuapp.com/lesson/demo/
   
