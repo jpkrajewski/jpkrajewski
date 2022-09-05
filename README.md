@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpkrajewski
 - ❤️ I'm in love with Python
-- I know Flask, Selenium, Pandas, Django, NumPy
+- I know Flask, Selenium, Pandas, Django, NumPy, Redis, Webscokets, Postgresql, Celery
 
 - My tutoring app (colab whiteboard, chat, voicechat). Open two tabs under that link:
   https://krajewski.herokuapp.com/lesson/demo/
