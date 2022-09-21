@@ -27,6 +27,7 @@ I am an enthusiastic and driven soon to be Computer Science Engineer graduate fr
 <i class="lan-tools devicon-git-plain colored"></i>
 <i class="lan-tools devicon-amazonwebservices-original colored"></i>
 <i class="lan-tools devicon-docker-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <i class="lan-tools devicon-linux-plain colored"></i>
 #
 
