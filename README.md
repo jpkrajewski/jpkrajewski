@@ -1,12 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<style>
-  .lan-tools {
-    font-size:40px; 
-    padding-right:10px;
-  }
-</style>
-
-
 # 👨🏻‍💻 Jakub Krajewski
 
 `Python enthusiast, mathematics and programming tutor` 
@@ -17,18 +8,19 @@ I am an enthusiastic and driven soon to be Computer Science Engineer graduate fr
 ---
 
 ### Languages and Tools
-<i class="lan-tools devicon-python-plain colored"></i>
-<i class="lan-tools devicon-javascript-plain colored"></i>
-<i class="lan-tools devicon-django-plain"></i>
-<i class="lan-tools devicon-flask-original"></i>
-<i class="lan-tools devicon-mysql-plain colored"></i>
-<i class="lan-tools devicon-postgresql colored"></i>
-<i class="lan-tools devicon-redis-plain colored"></i>
-<i class="lan-tools devicon-git-plain colored"></i>
-<i class="lan-tools devicon-amazonwebservices-original colored"></i>
-<i class="lan-tools devicon-docker-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<i class="lan-tools devicon-linux-plain colored"></i>
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
 #
 
 
