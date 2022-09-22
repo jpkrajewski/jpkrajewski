@@ -20,7 +20,6 @@ I am an enthusiastic and driven soon to be Computer Science Engineer graduate fr
 <img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
 #
 
 
