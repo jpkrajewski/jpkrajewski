@@ -2,8 +2,7 @@
 
 **`Python enthusiast, mathematics and programming tutor`** 
 
-I am an enthusiastic and driven soon to be Computer Science Engineer graduate from the Gdynia Maritime University. Recently I did an internship at Konica Minolta Buissnes Solutions as a DevOps intern. I automized parsing security software data logs to be presentable for upper managment while I was there. I learned how to use Heroku in one day then hosted my tutoring app there. After when Heroku announced that free tier will be no longer avaiable I quickly learned AWS Elasticbean Stalk and hosted my application for engineering thesis there. I am currently looking to secure a Backend Developer position to utilise my strong analytical skills and programming knowledge. 
-
+Extravertic, self-driven, honest person. I am constantly expanding my knowledge in programming.
 
 ---
 
