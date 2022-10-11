@@ -2,7 +2,7 @@
 
 **`Python enthusiast, mathematics and programming tutor`** 
 
-Extravertic, self-driven, honest person. I am constantly expanding my knowledge in programming.
+Software engineer .Extravertic, self-driven, honest person. I am constantly expanding my knowledge in programming.
 
 ---
 
