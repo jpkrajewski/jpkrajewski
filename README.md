@@ -2,7 +2,7 @@
 
 **`Python and AI enthusiast, mathematics and programming tutor`** 
 
-Software engineer. Extravertic, self-driven, honest person. I am constantly expanding my knowledge in programming.
+Software engineer specializing in network solutions with a passion for AI/ML. I'm dedicated to developing robust and scalable software solutions to optimize network performance and enhance user experiences. Additionally, I'm actively exploring the fascinating field of AI/ML, working on projects that leverage machine learning algorithms for data analysis, predictive modeling, and intelligent decision-making.
 
 ---
 
