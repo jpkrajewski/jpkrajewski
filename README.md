@@ -30,10 +30,9 @@ Software engineer specializing in network solutions with a passion for AI/ML. I'
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
           
-          
-<br>
+<br><br>
 
-#
+---
 
 
 
