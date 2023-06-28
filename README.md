@@ -4,8 +4,6 @@
 
 Software engineer specializing in network solutions with a passion for AI/ML. I'm dedicated to developing robust and scalable software solutions to optimize network performance and enhance user experiences. Additionally, I'm actively exploring the fascinating field of AI/ML, working on projects that leverage machine learning algorithms for data analysis, predictive modeling, and intelligent decision-making.
 
----
-
 ### 🧰 Languages and Tools
 
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -30,9 +28,9 @@ Software engineer specializing in network solutions with a passion for AI/ML. I'
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
           
-<br><br>
+<br>
+<br>
 
----
 
 
 
