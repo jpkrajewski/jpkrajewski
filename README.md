@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Jakub Krajewski
 
-**`Python and AI enthusiast, mathematics and programming tutor. I'm perfecting my craft, one project at a time.`** 
+**`Python Engineer and AI enthusiast, mathematics and programming tutor. I'm perfecting my craft, one project at a time.`** 
 
 Python software engineer. I possess fluency in numerous Python libraries and stay current with the ever-evolving Python ecosystem. I'm really good at listening and talking with my peers. I like writing things down to help me understand stuff better. I'm also super curious and can learn new things really quickly. I'm always excited to learn more.
 
