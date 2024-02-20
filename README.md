@@ -19,7 +19,6 @@ Python software engineer. I possess fluency in numerous Python libraries and sta
 <br><br>
 
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
