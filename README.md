@@ -37,5 +37,12 @@ Python software engineer. I possess fluency in numerous Python libraries and sta
   <img align='left' style='width:45px; padding-right:10px' src="https://images.prismic.io/sacra/862ed108-b61e-4203-9cc8-61481f745ec8_ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png?auto=compress,format" />
 </a>
 
+<br><br>
+
+### Certificates
+- AWS Certified AI Practitioner Early Adopter
+- AWS Certified Cloud Practitioner 
+- CCNA: Introduction to Networks
+
 
 
