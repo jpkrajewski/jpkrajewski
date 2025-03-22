@@ -40,6 +40,7 @@ Python software engineer. I possess fluency in numerous Python libraries and sta
 <br><br>
 
 ### Certificates
+Profile: https://www.credly.com/users/jakub-krajewski.e696c382
 - AWS Certified AI Practitioner Early Adopter
 - AWS Certified Cloud Practitioner 
 - CCNA: Introduction to Networks
